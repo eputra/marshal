@@ -15,12 +15,11 @@ Jika ada kritik atau saran agar kedua aplikasi ini bisa menjadi lebih baik, sila
 
 ![Balasan pesan dari chatbot ketika pelanggan telah mengirim pesan kosong](https://raw.githubusercontent.com/eputra/marshal/master/other/chatbot/Screenshot_2017-06-10-07-48-20.png)
 
-![Balasan pesan dari chatbot ketika pelanggan telah memesan lapangan
-futsal](https://raw.githubusercontent.com/eputra/marshal/master/other/chatbot/Screenshot_2017-06-10-07-48-34.png)
+![Balasan pesan dari chatbot ketika pelanggan telah memesan lapangan futsal](https://raw.githubusercontent.com/eputra/marshal/master/other/chatbot/Screenshot_2017-06-10-07-48-34.png)
 
 ![Pesan dari chatbot ketika pelanggan telah membayar pesanan](https://raw.githubusercontent.com/eputra/marshal/master/other/chatbot/Screenshot_2017-06-10-07-48-59.png)
 
-Selengkapnya dapat dilihat di [laporan](https://raw.githubusercontent.com/eputra/marshal/master/other/laporan.pdf "Download Laporan").
+### Selengkapnya dapat dilihat di [laporan](https://raw.githubusercontent.com/eputra/marshal/master/other/laporan.pdf "Download Laporan").
 
 ## Website
 ![Tampilan login](https://raw.githubusercontent.com/eputra/marshal/master/other/website/Screenshot_2017-06-10_07-45-04.png)
@@ -31,4 +30,4 @@ Selengkapnya dapat dilihat di [laporan](https://raw.githubusercontent.com/eputra
 
 ![Tampilan pesanan dari pelanggan, dalam status tunggu](https://raw.githubusercontent.com/eputra/marshal/master/other/website/Screenshot_2017-06-10_07-48-35.png)
 
-Selengkapnya dapat dilihat di [laporan](https://raw.githubusercontent.com/eputra/marshal/master/other/laporan.pdf "Download Laporan").
+### Selengkapnya dapat dilihat di [laporan](https://raw.githubusercontent.com/eputra/marshal/master/other/laporan.pdf "Download Laporan").
