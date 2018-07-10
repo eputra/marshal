@@ -1,0 +1,202 @@
+html {
+	font-family: "Open Sans", sans-serif;
+	font-size: 14px;
+	line-height: 1.5;
+	position: relative;
+    min-height: 100%;
+}
+
+body {
+	margin: 0 0 30px; /* bottom = footer height */
+}
+
+
+.header {
+	color: #fff;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	padding: 20;
+	background-color: #337ab7;
+}
+
+.menu {
+	background: #337ab7;
+	font-size: 16px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+.menu ul {
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #337ab7;
+}
+
+.menu li {
+    float: right;
+}
+
+.menu li a, li b {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;;
+    text-decoration: none;
+}
+
+.menu li a:hover {
+    background-color: #286090;
+}
+
+.active {
+    background-color: #286090;
+}
+
+.konten {
+	color: #000;
+	margin-top: 10px;
+	margin-bottom: 100px;
+	margin-left: 65px;
+	margin-right: 65px;
+	font-size: 14px;
+}
+
+.add-form {
+	width: 400px;
+}
+
+.profil {
+	width: 300px;
+	margin-bottom: 20px;
+}
+
+.login {
+	margin-top: 50px;
+	margin-right: auto;
+	margin-left: auto;
+	max-width: 500px;
+	background: #fff;
+}
+
+.title-login {
+	background: #337ab7;
+	font-weight: bold;
+	text-align: center;
+	padding: 5px;
+	color: #fff;
+}
+
+.form-login {
+	margin: 40px;
+}
+
+.footer-login {
+	text-align: center;
+    color: #7a7a7a;
+    padding: 10px;
+    background-color: #f0f0f0;
+}
+
+.failed-login {
+	text-align: center;
+    color: #fff;
+    padding: 10px;
+    background-color: #e84e40;
+}
+
+table {
+	margin-top: 5px;
+	margin-bottom: 5px;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table, th, td {
+    border-bottom: 1px solid #e0e0e0;
+    padding: 5px;
+}
+
+th {
+	font-weight: bold;
+	text-align: left;
+	background-color: #337ab7;
+	color: #fff;
+}
+
+.btn-hijau {
+    color: #337ab7;
+    background-color: #fff;
+    border: 1px solid #337ab7;
+    text-decoration: none;
+}
+
+
+.btn-hijau:hover {
+    color: #fff;
+    background-color: #337ab7;
+    border: 1px solid #337ab7;
+    text-decoration: none;
+}
+
+a.btn-hijau:hover {
+    color: #fff;
+    background-color: #337ab7;
+    border: 1px solid #337ab7;
+    text-decoration: none;
+}
+
+.aktif {
+	color: #fff;
+    background-color: #337ab7;
+    border: 1px solid #337ab7;
+    text-decoration: none;
+}
+
+.admin {
+	text-align: center;
+	font-size: 24px;
+}
+
+.pesan {
+	padding: 10px;
+	margin-bottom: 20px;
+	font-size: 16px;
+	color: #259b24;
+}
+
+.kesalahan {
+	padding: 10px;
+	margin-bottom: 20px;
+	font-size: 16px;
+	color: #e51c23;
+}
+
+.footer {
+	position: absolute;
+	height: 30px;
+	color: #7a7a7a;
+	padding: 5px 0;
+	bottom: 0;
+	margin-left: auto;
+	margin-right: auto;
+	font-weight: normal;
+	min-width: 100%;
+	text-align: center;
+	background-color: #f0f0f0;
+}
+
+.nilai {
+	margin: 0;
+}
+
+.btn-nilai {
+	margin-top: 20px;
+}
+
+.hasil {
+	width: 200px;
+	margin-top: 20px;
+}
